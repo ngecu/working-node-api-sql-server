@@ -1,0 +1,10 @@
+POST http://localhost:4500/user/register
+Content-Type: application/json
+
+{
+    "FullName": "123",
+    "email": "caleb@yopmail.co.ke",
+    "phone_no": "0787587325",
+    "profession": "QA",
+    "password": "12345678@"
+}
